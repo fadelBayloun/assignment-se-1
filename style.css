@@ -84,3 +84,10 @@ img {
 .border-image {
   margin-left: 100px;
 }
+
+footer {
+  background-color: #5f8d4e;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
