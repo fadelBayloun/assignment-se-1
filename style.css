@@ -69,3 +69,7 @@ p {
 section {
   margin-bottom: 30px;
 }
+
+section ul {
+  margin: 30px;
+}
